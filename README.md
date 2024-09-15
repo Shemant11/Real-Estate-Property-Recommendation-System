@@ -60,6 +60,16 @@ This project leverages data science techniques to provide insights, predictions,
 - Conducted **EDA** using **Pandas Profiling**, **Matplotlib**, and **Seaborn** to uncover trends and patterns in property data.
 - Automated **EDA** reports generated for comprehensive insights into variable distributions, missing data, and correlations.
 
+  *Automated EDA Report Screenshots*
+  ![Automated EDA](https://github.com/Shemant11/Real-Estate-Property-Recommendation-System/blob/main/Screenshot%20(205).png)
+  ![Automated EDA](https://github.com/Shemant11/Real-Estate-Property-Recommendation-System/blob/main/Screenshot%20(206).png)
+  ![Automated EDA](https://github.com/Shemant11/Real-Estate-Property-Recommendation-System/blob/main/Screenshot%20(207).png)
+  ![Automated EDA](https://github.com/Shemant11/Real-Estate-Property-Recommendation-System/blob/main/Screenshot%20(213).png)
+  ![Automated EDA](https://github.com/Shemant11/Real-Estate-Property-Recommendation-System/blob/main/Screenshot%20(218).png)
+  ![Automated EDA](https://github.com/Shemant11/Real-Estate-Property-Recommendation-System/blob/main/Screenshot%20(219).png)
+  ![Automated EDA](https://github.com/Shemant11/Real-Estate-Property-Recommendation-System/blob/main/Screenshot%20(220).png)
+  ![Automated EDA](https://github.com/Shemant11/Real-Estate-Property-Recommendation-System/blob/main/Screenshot%20(221).png)
+
 ## Model Development
 
 - Implemented and compared multiple machine learning models using **Scikit-learn** and **XGBoost**, including:
