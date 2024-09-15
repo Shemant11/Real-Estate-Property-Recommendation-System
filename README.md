@@ -90,12 +90,20 @@ This project leverages data science techniques to provide insights, predictions,
 
 ## Screenshots
 
-![Property Price Prediction](screenshots/prediction.png)
-*Price prediction interface*
+![Real Estate Property Price Prediction](https://github.com/Shemant11/Real-Estate-Property-Recommendation-System/blob/main/Screenshot%202024-09-15%20181334.png)
+*Home Page*
 
-![Recommendation System](screenshots/recommendation.png)
-*Recommendation system interface*
+![Price Predictor](https://github.com/Shemant11/Real-Estate-Property-Recommendation-System/blob/main/Screenshot%20(198).png)
+*Price Predictor*
 
+![Property Analysis](https://github.com/Shemant11/Real-Estate-Property-Recommendation-System/blob/main/Screenshot%20(199).png)
+![Property Analysis](https://github.com/Shemant11/Real-Estate-Property-Recommendation-System/blob/main/Screenshot%20(201).png)
+![Property Analysis](https://github.com/Shemant11/Real-Estate-Property-Recommendation-System/blob/main/Screenshot%20(202).png)
+*Property Analysis interface*
+
+![Recommendation System](https://github.com/Shemant11/Real-Estate-Property-Recommendation-System/blob/main/Screenshot%20(203).png)
+![Recommendation System](https://github.com/Shemant11/Real-Estate-Property-Recommendation-System/blob/main/Screenshot%20(204).png)
+*Recommendation System interface*
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
